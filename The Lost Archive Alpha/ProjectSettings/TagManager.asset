@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Plank 0
+  - Mission Area
+  - MainCamera2
   layers:
   - Default
   - TransparentFX

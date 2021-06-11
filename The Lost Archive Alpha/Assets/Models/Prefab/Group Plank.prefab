@@ -1395,7 +1395,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           typeName: UnityEngine.AudioClip
-          value: {fileID: 8300000, guid: 59fd1fe92ef6b2548ac93fc23cefd18a, type: 3}
+          value: {fileID: 8300000, guid: 39c85d48a14bc374d97693a4e7eb95cf, type: 3}
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []

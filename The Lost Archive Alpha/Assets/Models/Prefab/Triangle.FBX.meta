@@ -10,11 +10,16 @@ ModelImporter:
     3300000: //RootNode
     4300000: Mesh_0051
     6400000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: setka.png
+    second: {fileID: 2100000, guid: 5ac7715eca3497c47963850ec8bae2d6, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
-    materialSearch: 1
+    materialSearch: 0
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
